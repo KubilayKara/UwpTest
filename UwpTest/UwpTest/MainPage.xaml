@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Button Content="Deneme"/>
+        <Button Content="Deneme" VerticalAlignment="Center" HorizontalAlignment="Center" Padding="15" Background="Azure"/>
     </Grid>
 </Page>
